@@ -27,7 +27,7 @@ There exist two different versions of this environment. In the first one, there 
 
 3. Place the file in the root of the folder and unzip it.
 
-4. Run it!
+4. Run it! Consider to change the cell at point 2 of the notebook to match with your folder `env = UnityEnvironment(file_name='Reacher_Linux/Reacher.x86_64')`.
 
 ## Instructions
 
